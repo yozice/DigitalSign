@@ -1,0 +1,11 @@
+C:\Users\User\Documents\ZDProject1\ZDProject1\ZDProject1\obj\Debug\ZDProject1.csprojAssemblyReference.cache
+C:\Users\User\Documents\ZDProject1\ZDProject1\ZDProject1\obj\Debug\ZDProject1.Form1.resources
+C:\Users\User\Documents\ZDProject1\ZDProject1\ZDProject1\obj\Debug\ZDProject1.Properties.Resources.resources
+C:\Users\User\Documents\ZDProject1\ZDProject1\ZDProject1\obj\Debug\ZDProject1.UserChoose.resources
+C:\Users\User\Documents\ZDProject1\ZDProject1\ZDProject1\obj\Debug\ZDProject1.csproj.GenerateResource.cache
+C:\Users\User\Documents\ZDProject1\ZDProject1\ZDProject1\bin\Debug\ZDProject1.exe.config
+C:\Users\User\Documents\ZDProject1\ZDProject1\ZDProject1\bin\Debug\ZDProject1.exe
+C:\Users\User\Documents\ZDProject1\ZDProject1\ZDProject1\bin\Debug\ZDProject1.pdb
+C:\Users\User\Documents\ZDProject1\ZDProject1\ZDProject1\obj\Debug\ZDProject1.exe
+C:\Users\User\Documents\ZDProject1\ZDProject1\ZDProject1\obj\Debug\ZDProject1.pdb
+C:\Users\User\Documents\ZDProject1\ZDProject1\ZDProject1\obj\Debug\ZDProject1.AboutBox.resources
